@@ -4,7 +4,7 @@
 #============================================================================
 
 # Variable menyimpan data
-nama_file = "data_mahasiswa.txt"
+nama_file = "F:\IPB\IPB Smester 2\Algoritma dan Struktur data\Pertemuan 1\Praktikum2\data_mahasiswa.txt"
 
 def baca_data(nama_file):
     data_dict = {} # inisialisasi data dictionary
